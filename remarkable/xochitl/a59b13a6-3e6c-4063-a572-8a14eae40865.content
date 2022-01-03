@@ -1,0 +1,47 @@
+{
+    "coverPageNumber": 0,
+    "documentMetadata": {
+    },
+    "dummyDocument": false,
+    "extraMetadata": {
+    },
+    "fileType": "pdf",
+    "fontName": "",
+    "lineHeight": -1,
+    "margins": 100,
+    "orientation": "portrait",
+    "originalPageCount": -1,
+    "pageCount": 14,
+    "pages": [
+        "8483ffed-3707-4540-a9b3-a523b0741391",
+        "11197392-ff9f-48fa-8a69-a9b84fff2b32",
+        "f587a0ea-c8e3-467d-a1eb-bb0fcd4343fe",
+        "4a532c03-03bd-4de7-88f0-876ad12ca7a7",
+        "8ac02bcd-faac-47af-881d-89b422f313cc",
+        "5a5cd1f6-3b39-47c9-9081-1648769a7538",
+        "e35a4538-3c2c-4e97-a673-1e38c5d8234c",
+        "3b3fa89b-bea9-4a5c-9fb4-ca4b1fc21ec8",
+        "4b8dfe78-88fb-40c7-af3b-0caca2854bbf",
+        "67d341d4-b9ee-49ff-a32f-7737883c1f5d",
+        "45f28be8-74b4-4479-bc6b-b38645ad494b",
+        "fd11c13e-5e20-48b3-8d16-ef39bdf0d991",
+        "d804b342-b4ca-46b7-881f-ecc0014453ab",
+        "20cd4426-c688-4b1e-ad2a-2cec70e52aab"
+    ],
+    "redirectionPageMap": [
+    ],
+    "sizeInBytes": "2007619",
+    "textAlignment": "left",
+    "textScale": 1,
+    "transform": {
+        "m11": 1,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 1,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 1
+    }
+}

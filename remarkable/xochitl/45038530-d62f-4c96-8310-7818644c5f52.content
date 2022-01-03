@@ -1,0 +1,35 @@
+{
+    "coverPageNumber": -1,
+    "documentMetadata": {
+    },
+    "dummyDocument": false,
+    "extraMetadata": {
+    },
+    "fileType": "notebook",
+    "fontName": "",
+    "lineHeight": -1,
+    "margins": 100,
+    "orientation": "portrait",
+    "originalPageCount": -1,
+    "pageCount": 2,
+    "pages": [
+        "21e02b89-1f33-433b-863e-27d6f3aa3b61",
+        "f85003bf-c350-410d-ac9b-c214c39bc9f8"
+    ],
+    "redirectionPageMap": [
+    ],
+    "sizeInBytes": "96136",
+    "textAlignment": "left",
+    "textScale": 1,
+    "transform": {
+        "m11": 1,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 1,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 1
+    }
+}

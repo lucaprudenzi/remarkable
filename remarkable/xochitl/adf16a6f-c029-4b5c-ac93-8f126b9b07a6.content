@@ -1,0 +1,32 @@
+{
+    "coverPageNumber": 0,
+    "documentMetadata": {
+    },
+    "dummyDocument": false,
+    "extraMetadata": {
+    },
+    "fileType": "pdf",
+    "fontName": "",
+    "lineHeight": -1,
+    "margins": 125,
+    "orientation": "portrait",
+    "originalPageCount": 5,
+    "pageCount": 5,
+    "pages": [
+        "e3400d0c-6ac4-4c1c-aca2-9ddfa5dd8f8a",
+        "3ebdd80c-7067-436a-a804-809fa43e5911",
+        "361d9a6c-5692-4885-ac7f-0f2d9f5308bb",
+        "03160208-1278-4c00-bf63-a65503271eb5",
+        "959654e8-097f-4cd7-93b1-e55611fbaf50"
+    ],
+    "redirectionPageMap": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "sizeInBytes": "228583",
+    "textAlignment": "justify",
+    "textScale": 1
+}

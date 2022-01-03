@@ -1,7 +1,7 @@
 {
     "deleted": false,
-    "lastModified": "1641172296621",
-    "lastOpened": "1641172276425",
+    "lastModified": "1641172575083",
+    "lastOpened": "1641172570228",
     "lastOpenedPage": 0,
     "metadatamodified": false,
     "modified": false,
@@ -9,6 +9,6 @@
     "pinned": false,
     "synced": true,
     "type": "DocumentType",
-    "version": 1,
+    "version": 2,
     "visibleName": "test git"
 }

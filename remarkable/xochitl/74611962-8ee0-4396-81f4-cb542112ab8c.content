@@ -15,7 +15,7 @@
     "fontName": "",
     "lineHeight": -1,
     "margins": 125,
-    "orientation": "landscape",
+    "orientation": "portrait",
     "originalPageCount": -1,
     "pageCount": 1,
     "pages": [
@@ -23,7 +23,7 @@
     ],
     "redirectionPageMap": [
     ],
-    "sizeInBytes": "0",
+    "sizeInBytes": "6697",
     "textAlignment": "justify",
     "textScale": 1
 }
